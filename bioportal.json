@@ -1,0 +1,350 @@
+{
+"Integumentary system":
+{
+	"Skin of head and neck":{
+"skin of head":[],
+"skin of nose":[],
+"skin of mouth":[],
+"skin of neck":[],
+"ear":{
+	"right ear":[],
+	"left ear":[],
+	"external acoustic meatus":[
+		"right external acoustic meatus",
+		"left external acoustic meatus"]
+}
+	},"skin of torso":{
+
+	}
+},
+"Muscular system":{
+"muscles of head and neck":{
+	"muscles of head":{
+		"muscles of facial expression":{
+			"occipitofrontalis":{
+				"frontalis":["left frontalis"
+					,"right frontalis"],
+				"epicranial aponeurosis":[],
+				"occipitalis":["left occipitalis",
+					"right occipitalis"]
+				},
+				"temporoparietalis":
+					["left temporoparietalis",
+					"right temporoparietalis"],
+				"orbicularis oculi"
+		}
+	}
+}
+},
+"connective tissue":{
+
+},
+"skeletal system":{
+
+},
+"lymphatic system":{
+
+},"endocrine system":{
+
+},"nervous system":{
+
+},"cardiovascular system":{
+"heart":{
+	"cardiac fat":[],
+	"chambers of heart":{
+		"left atrium and auricle":["left atrium","left auricle"],
+		"right atrium and auricle":["right atrium","right auricle"],
+		"interventricular septum and septal papillary muscle":["interventricular septum","septal papillary muscles"],
+		"right ventricle and papillary muscles":["right ventricle","right posterior papillary muscle","right anterior papillary muscle"],
+		"left ventricle and papillary muscles":["left ventricle","left posterior papillary muscle","left anterior papillary muscle"]
+	},
+	"valves of heart":["tricuspid valve","mitral valve","aortic valve","pulmonary valve"],
+	"aorta":[],
+	"ligamentum arteriosum":[],
+	"pulmonary trunk":[],
+	"coronary vessels":{
+		"coronary arteries":{
+			"right coronary artery":[],
+			"branches of right coronary artery":["right conus artery","sinoatrial nodal branch of right coronary artery","right anterior ventricular arteries","right marginal branch of right coronary artery","posterior interventricular branch of right coronary artery"],
+			"left coronary artery":[],
+			"branches of left coronary artery":["anterior interventricular branch of left coronary artery","diagonal branch of anterior interventricular branch of left coronary artery","circumflex branch of left coronary artery","left marginal branch of left coronary artery","posterior left ventricular branch of left coronary artery"]
+		},
+		"coronary veins":[
+			"small cardiac vein","anterior cardiac veins","coronary sinus","middle cardiac vein","posterior vein of left ventricle","left marginal vein","oblique vein of left atrium","great cardiac vein"]
+	}
+},
+"arterial system":{
+	"arteries of head and neck":{
+		"arteries of brain":{},
+		"arteries of neck":{},
+		"right common carotid artery":[],
+		"left common carotid artery":[],
+		"carotid sinus":{
+
+		},
+		"ophthalmic artery":{},
+		"branches of ophthalmic artery":{},
+		"external carotid artery":{},
+		"branches of external carotid artery":{},
+		"cervical arteries":{}
+	},
+	"arteries of thorax":{
+		"pulmonary arteries":{},
+		"thoracic aorta":[],
+		"right brachiocephalic trunk":[],
+		"internal thoracic artery":{},
+		"intercostal arteries":{},
+		"subcostal artery":{}
+	},
+	"arteries of upper limb":{
+		"arteries of right upper limb":{
+
+		},
+		"arteries of left upper limb":{}
+	},
+	"arteries of abdomen":{
+		"abdominal aorta":[],
+		"arteries of abdominal wall":{},
+		"arteries of anterior abdomen":{},
+		"arteries of posterior abdomen":{}
+	},
+	"arteries of pelvis":{
+		"common iliac artery":{},
+		"external iliac artery":{},
+		"internal iliac artery":{},
+		"branches of internal iliac artery":{},
+		"median sacral artery":[]
+	},
+	"arteries of lower limb":{
+		"arteries of right lower limb":{
+			"right common femoral artery":[],
+			"right superficial femoral artery":[],
+			"right deep femoral artery":[],
+			"branches of right deep femoral artery":[
+				"right lateral circumflex femoral artery",
+				"right medial circumflex femoral artery",
+				"descending branch of right lateral circumflex femoral artery",
+				"perforating arteries of right deep femoral artery"
+			],
+			"right popliteal artery":[],
+			"right genicular arteries":{
+				"right superior genicular arteries":[
+					"right superior lateral genicular artery",
+					"left superior medial genicular artery"
+				],
+				"right inferior genicular arteries":[
+					"right inferior medial genicular artery",
+					"right inferior lateral genicular artery"
+				]
+			},
+			"right anterior tibial recurrent artery":[],
+			"right posterior tibial artery":[],
+			"branches of right posterior tibial artery":[
+				"medial malleolar branches of right posterior tibial artery",
+				"calcaneal branch of right posterior tibial artery"],
+			"right anterior tibial artery":[],
+			"right fibular artery":[],
+			"branches of right fibular artery":[
+				"lateral malleolar branch of right fibular artery",
+				"calcaneal branch of right fibular artery",
+				"communicating branch of right fibular artery"],
+			"arteries of right foot":{
+				"dorsal arteries of right foot":[
+					"right dorsalis pedis artery",
+					"right lateral tarsal artery",
+					"right arcuate artery",
+					"medial parts of dorsal digital arteries of right foot",
+					"lateral parts of dorsal digital arteries of right foot",
+					"right dorsal metatarsal arteries"
+				],
+				"perforating arteries of right foot":[
+					"proximal perforating arteries of right foot", 
+					"distal perforating arteries of right foot"],
+				"plantar arteries of right foot":[
+					"right medial plantar artery",
+					"right lateral plantar artery",
+					"right deep medial plantar artery",
+					"right deep plantar artery",
+					"right plantar arch",
+					"right plantar metatarsal arteries",
+					"medial parts of plantar digital arteries of right foot",
+					"lateral parts of plantar digital arteries of right foot"
+				]
+			}
+
+		},
+		"arteries of left lower limb":{
+			"left common femoral artery":[],
+			"left superficial femoral artery":[],
+			"left deep femoral artery":[],
+			"branches of left deep femoral artery":[
+				"left lateral circumflex femoral artery",
+				"left medial circumflex femoral artery",
+				"descending branch of left lateral circumflex femoral artery",
+				"perforating arteries of left deep femoral artery"
+			],
+			"left popliteal artery":[],
+			"left genicular arteries":{
+				"left superior genicular arteries":[
+					"left superior lateral genicular artery",
+					"left superior medial genicular artery"
+				],
+				"left inferior genicular arteries":[
+					"left inferior medial genicular artery",
+					"left inferior lateral genicular artery"
+				]
+			},
+			"left anterior tibial recurrent artery":[],
+			"left posterior tibial artery":[],
+			"branches of left posterior tibial artery":[
+				"medial malleolar branches of left posterior tibial artery",
+				"calcaneal branch of left posterior tibial artery"],
+			"left anterior tibial artery":[],
+			"left fibular artery":[],
+			"branches of left fibular artery":[
+				"lateral malleolar branch of left fibular artery",
+				"calcaneal branch of left fibular artery",
+				"communicating branch of left fibular artery"],
+			"arteries of left foot":{
+				"dorsal arteries of left foot":[
+					"left dorsalis pedis artery",
+					"left lateral tarsal artery",
+					"left arcuate artery",
+					"medial parts of dorsal digital arteries of left foot",
+					"lateral parts of dorsal digital arteries of left foot",
+					"left dorsal metatarsal arteries"
+				],
+				"perforating arteries of left foot":[
+					"proximal perforating arteries of left foot", 
+					"distal perforating arteries of left foot"],
+				"plantar arteries of left foot":[
+					"left medial plantar artery",
+					"left lateral plantar artery",
+					"left deep medial plantar artery",
+					"left deep plantar artery",
+					"left plantar arch",
+					"left plantar metatarsal arteries",
+					"medial parts of plantar digital arteries of left foot",
+					"lateral parts of plantar digital arteries of left foot"
+				]
+			}
+		}
+	}
+},
+"venous system":{}
+},"respiratory system":{
+"paranasal sinuses":{
+	"forntal sinuses":["right frontal sinus","left frontal sinus"],
+	"sphenoid sinuses":["right sphenoid sinus","left sphenoid sinus"],
+	"ethmoid sinuses":["right ethmoid sinus","left ethmoid sinus"],
+	"maxillary sinuses":["right maxillary sinus","left maxillary sinus"]
+},
+"auditory membranes":{
+	"tympanic membrane":["right tympanic membrane","left tympanic membrane"],
+	"middle ear mucosa":["right middle ear mucosa","left middle ear mucosa"],
+	"eustachian tube":["right eustachian tube","left eustachian tube"]
+},
+"nasal mucosa":[],"pharynx":[
+"nasopharynx","oropharynx","laryngopharynx"],
+"larynx":{
+"laryngeal vestibule":[],
+"aryepiglottic fold":[],
+"vestibular folds":["right vestibular fold","left vestibular fold"],
+"vocal folds":["right vocal fold","left vocal fold"],
+"thyrohyoid membrane":[],
+"laryngeal cartilage":{
+	"corniculate cartilage":["right corniculate cartilage","left corniculate cartilage"],
+	"arytenoid cartilage":["right arytenoid cartilage","left arytenoid cartilage"],
+	"cuneiform cartilage":["right cuneiform cartilage","left cuneiform cartilage"],
+	"triticeal cartilage":["right triticeal cartilage","left triticeal cartilage"],
+	"corniculate tubercle":["right corniculate tubercle","left corniculate tubercle"],
+	"cuneiform tubercle":["right cuneiform tubercle","left cuneiform tubercle"],
+	"epiglottis":[],
+	"thyroid cartilage":[],
+	"cricoid cartilage":[]
+}
+},
+"tracheobronchial tree":{
+"trachea":[],
+"trachealis":[],
+"bronchi":["right bronchi","left bronchi"]},
+"lungs":["left lung","right lung"]
+},
+"digestive system":{
+"accessory digestive organs":{
+	"salivary glands":{
+	"palatine glands":["right palatine gland","left palatine gland"],
+	"molar glands":["right molar gland","left molar gland"],
+	"parotid glands and ducts":["right parotid gland and duct","left parotid gland and duct"],
+	"submandibular glands and ducts":["right submandibular gland and duct","left submandibular gland and duct"],
+	"sublingual glands and ducts":["right sublingual gland and duct","left sublingual gland and duct"]
+	},
+	"liver":[],
+	"pancreas":[],
+	"pancreatic ducts":[],
+	"gallbladder":[],
+	"bile ducts":{
+	"common bile duct":[],
+	"common hepatic duct":[],
+	"right hepatic duct":[],
+	"left hepatic duct":[],
+	"segmental intragepatic bile ducts":{
+	"caudate process hepatic duct":[],
+	"hepatic duct of caudate lobe":["right caudate lobe hepatic duct","left caudate lobe hepatic duct"],
+	"posterior segmental hepatic ducts and branches":["posterior inferior segmental hepatic duct","posterior superior segmental duct","posteiror segmental hepatic duct"],
+	"anterior segmental hepatic ducts and branches":["anterior segmental hepatic duct","anterior superior segmental hepatic duct","anterior inferior segmental hepatic duct"],
+	"medial segmental hepatic ducts and branches":["medial segmental hepatic duct","medial superior segmental hepatic duct","anterior medial segmental hepatic duct"],
+	"lateral segmental hepatic ducts and branches":[
+	"lateral segmental hepatic duct","lateral superior segmental hepatic duct","lateral inferior segmental hepatic duct"]
+	},
+	"cystic duct"
+	}	
+},
+"gastrointestinal tract":{
+	"upper gastrointestinal tract":{
+	"oral cavity":{
+	"oral mucosa":[],
+	"gingiva":[],
+	"uvula":[],"tongue":{
+	"tongue surface":[],
+	"intrinsic muscles of tongue":{
+	"superior longitudinal muscle of tongue":[
+	"right superior longitudinal muscle of tongue","left superior longitudinal muscle of tongue"
+	],
+	"vertical and transverse muscles of tongue":["right vertical and transverse muscles of tongue","left vertical and transverse muscles of tongue"
+	],
+	"inferior longitudinal muscle of tongue":["right inferior longitudinal muscle of tongue","left inferior longitudinal muscle of tongue"]
+	}
+	}
+	},
+	"esophagus":[],"stomach"
+	},
+	"lower gastrointestinal tract":{
+"small intestines":["duodenum","jejunum","ileum"],
+"epiploic appendages":[],
+"colon":["ascending colon","appendix","transverse colon","descending colon","sigmoid colon","rectum"]
+	}
+}
+},
+	"reproductive system":{
+	"external genitalia":"penis",
+	"internal genitalia":{
+	"prostate":[],
+	"ejaculatory duct":["right ejaculatory duct","left ejaculatory duct"],
+	"seminal vesicles":["right seminal vesicles","left seminal vesicles"],
+	"vas deferens":["right vas deferens","left vas deferens"],
+	"epididymis":["right epididymis","left epididymis"],
+	"testes":["right testes","left testes"],
+	"bulbourethral glands":["right bulbourethral glands","left bulbourethral glands"]
+	
+	}
+},
+
+"urinary system":{
+	"kidneys":["right kidney","left kidney"],
+	"ureters":["right ureter","left ureter"],
+	"bladder":[],
+	"urethra"
+}
+
+				}
